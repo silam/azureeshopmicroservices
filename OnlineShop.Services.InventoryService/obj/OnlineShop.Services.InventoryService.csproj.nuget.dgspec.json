@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DEVELOPMENT\\azurepaasmicroservices-master\\azureecommermicroservices\\OnlineShop.Services.InventoryService\\OnlineShop.Services.InventoryService.csproj": {}
+  },
+  "projects": {
+    "C:\\DEVELOPMENT\\azurepaasmicroservices-master\\azureecommermicroservices\\OnlineShop.Services.InventoryService\\OnlineShop.Services.InventoryService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DEVELOPMENT\\azurepaasmicroservices-master\\azureecommermicroservices\\OnlineShop.Services.InventoryService\\OnlineShop.Services.InventoryService.csproj",
+        "projectName": "OnlineShop.Services.InventoryService",
+        "projectPath": "C:\\DEVELOPMENT\\azurepaasmicroservices-master\\azureecommermicroservices\\OnlineShop.Services.InventoryService\\OnlineShop.Services.InventoryService.csproj",
+        "packagesPath": "C:\\Users\\silam\\.nuget\\packages\\",
+        "outputPath": "C:\\DEVELOPMENT\\azurepaasmicroservices-master\\azureecommermicroservices\\OnlineShop.Services.InventoryService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\silam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Azure.WebJobs.ServiceBus": {
+              "target": "Package",
+              "version": "[2.1.0-beta1, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
