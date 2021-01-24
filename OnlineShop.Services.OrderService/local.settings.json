@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=onlineshoppingstorage;AccountKey=+agMpWN7jJm2p2QfGqZSxi7qexASc6DFN8c4HPnxYZOw61H09Z7AHqy4WnMhpz3pBdulcuQ7W/iusgqK9EBnJg==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=onlineshoppingstorage;AccountKey=+agMpWN7jJm2p2QfGqZSxi7qexASc6DFN8c4HPnxYZOw61H09Z7AHqy4WnMhpz3pBdulcuQ7W/iusgqK9EBnJg==;EndpointSuffix=core.windows.net",
+    "TableStorage": "DefaultEndpointsProtocol=https;AccountName=onlineshoppingstorage;AccountKey=+agMpWN7jJm2p2QfGqZSxi7qexASc6DFN8c4HPnxYZOw61H09Z7AHqy4WnMhpz3pBdulcuQ7W/iusgqK9EBnJg==;EndpointSuffix=core.windows.net",
+    "ServiceBusConnectionString": "Endpoint=sb://sb-online-shop.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=7LHK2QmEDx2jfH29gSfaemZDsO8irW2s0E0E2VWOuaw=",
+    "CheckInventoryTopicName": "checkinventorytopic"
+  },
+  "Host": {
+    "LocalHttpPort": 7071
+  }
+}
